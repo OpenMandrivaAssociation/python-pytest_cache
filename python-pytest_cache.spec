@@ -4,7 +4,7 @@
 %define version 1.0
 
 Name:           python-%{pypi_name}
-Version:        %{version}
+Version:        1.0
 Release:        1
 Group:          Development/Python
 Summary:        This plugin provides two options to rerun failures
